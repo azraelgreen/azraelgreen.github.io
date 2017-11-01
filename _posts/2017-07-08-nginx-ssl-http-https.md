@@ -3,7 +3,7 @@ layout: post
 title: 解决nginx配置ssl允许http https同时访问的方法
 date: 2017-07-08
 categories: blog
-tags: [nginx]
+tags: [nginx,ssl]
 description: 解决nginx配置ssl允许http https同时访问的方法
 ---
 

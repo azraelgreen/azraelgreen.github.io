@@ -3,7 +3,7 @@ layout: post
 title: CentOS服务器安装配置SSL
 date: 2017-03-20
 categories: blog
-tags: [centos]
+tags: [centos,ssl]
 description: CentOS服务器安装配置SSL
 ---
 

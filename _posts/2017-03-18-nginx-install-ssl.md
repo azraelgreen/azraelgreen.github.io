@@ -3,7 +3,7 @@ layout: post
 title: Nginx安装SSL证书
 date: 2017-03-18
 categories: blog
-tags: [nginx]
+tags: [nginx,ssl]
 description: Nginx安装SSL证书
 ---
 
