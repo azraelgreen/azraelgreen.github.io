@@ -14,12 +14,12 @@ description: 禁止特定ftp用户访问文件夹下指定文件或文件夹
 
 在网上一番搜索无果后，只好访问官方的配置文档看看。
 
-官方 ** vsftpd.conf ** 配置文件参数
+官方 **vsftpd.conf** 配置文件参数
 网址：https://security.appspot.com/vsftpd/vsftpd_conf.html
 
 ### 找到如下如下参数：
 
-** deny_file **
+**deny_file**
 
 >> This option can be used to set a pattern for filenames (and directory names etc.) which should not be accessible in any way. The affected items are not hidden, but any attempt to do anything to them (download, change into directory, affect something within directory etc.) will be denied. This option is very simple, and should not be used for serious access control - the filesystem's permissions should be used in preference. However, this option may be useful in certain virtual user setups. In particular aware that if a filename is accessible by a variety of names (perhaps due to symbolic links or hard links), then care must be taken to deny access to all the names. Access will be denied to items if their name contains the string given by hide_file, or if they match the regular expression specified by hide_file. Note that vsftpd's regular expression matching code is a simple implementation which is a subset of full regular expression functionality. Because of this, you will need to carefully and exhaustively test any application of this option. And you are recommended to use filesystem permissions for any important security policies due to their greater reliability. Supported regex syntax is any number of *, ? and unnested {,} operators. Regex matching is only supported on the last component of a path, e.g. a/b/? is supported but a/?/c is not. Example: deny_file={*.mp3,*.mov,.private}
 
