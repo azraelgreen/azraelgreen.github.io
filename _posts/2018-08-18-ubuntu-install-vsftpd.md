@@ -200,6 +200,7 @@ anon_umask  表示文件上传的默认掩码。
 如果错误提示：
 
 	响应:    500 OOPS: cannot change directory:/home/www
+	
 	错误:    严重错误: 无法连接到服务器
 
 原因：可能是使用的属主目录（/home/www）没有建立
