@@ -197,13 +197,14 @@ anon_umask  表示文件上传的默认掩码。
 至此，vsftpd基本就配置完毕了。
 我们可以在本地使用自己常用的FTP客户端（如 FileZilla ）来使用 ftpuser 用户登录 vsftpd 进行测试。
 
-如果错误提示：
+**如果错误提示：**
 
-	响应:    500 OOPS: cannot change directory:/home/www
-	
-	错误:    严重错误: 无法连接到服务器
+响应:    500 OOPS: cannot change directory:/home/www
+错误:    严重错误: 无法连接到服务器
 
-原因：可能是使用的属主目录（/home/www）没有建立
+**原因：**
+
+可能是使用的属主目录（/home/www）没有建立
 
 **解决方法：**
 
