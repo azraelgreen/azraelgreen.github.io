@@ -22,7 +22,7 @@ header-img: "img/green.jpg"
 
 - 开源及 Linux 系统爱好者
 
-- Bash，Python，Java，Andriod 开发
+- Bash，Python，Data Analyst
 
 - IT 从业十年有余 (How time flies!)
 
@@ -37,10 +37,6 @@ header-img: "img/green.jpg"
 - 平时会玩吉它、洞箫、十孔口琴
 
 - 朴门永续爱好者
-
-- 家有汪星人
-
-- 汉服（着我汉家衣裳，兴我礼仪之邦）
 
 - 极简主义者
 
