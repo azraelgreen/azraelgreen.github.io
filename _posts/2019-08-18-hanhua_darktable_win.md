@@ -10,13 +10,13 @@ description: 如何汉化darktable？(Win系统)
 
 ## 第一步：下载 darktable
 
-官网： https://www.darktable.org
+官网： [https://www.darktable.org](https://www.darktable.org)
 
 
 
 ## 第二步：下载 "zh_CN.po" 文件
 
-下载地址：https://raw.githubusercontent.com/darktable-org/darktable/master/po/zh_CN.po
+下载地址：[https://raw.githubusercontent.com/darktable-org/darktable/master/po/zh_CN.po](https://raw.githubusercontent.com/darktable-org/darktable/master/po/zh_CN.po)
 
 
 
@@ -30,12 +30,12 @@ description: 如何汉化darktable？(Win系统)
 
 #### Win：
 
-下载 poedit：https://poedit.en.softonic.com
+下载 poedit：[https://poedit.en.softonic.com](https://poedit.en.softonic.com)
 
 另存为 mo 文件，文件名保存为 darktable.mo
 
 
-也可以直接使用我编译好的 darktable.mo 文件: https://azraelgreen.github.io/darktable.mo
+也可以直接使用我编译好的 darktable.mo 文件: [https://azraelgreen.github.io/darktable.mo](https://azraelgreen.github.io/darktable.mo)
 
 
 
