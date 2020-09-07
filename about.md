@@ -11,9 +11,10 @@ header-img: "img/green.jpg"
 
 ![头像](/img/blog_head.png) 
 
-*Twitter: @azraelgreen*
-
-*E-mail: azrael.green#gmail.com*
+*Twitter: @brianchen_life
+*Instagram: @brianchen_life
+*YouTube: brianchen_life
+*Bilibili: 秋日暖阳Brian生活志
 
 
 ### 关于我
